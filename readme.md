@@ -23,5 +23,6 @@ Follow these steps to get started quickly:
 ## Hardware requirement
 
 GPU Memory at least 48GB would not appear OOM problem.
+![微信图片_20250206162602](https://github.com/user-attachments/assets/e4232a2e-4e5d-4636-921e-d9e6e4855134)
 
  
