@@ -25,10 +25,11 @@ Follow these steps to get started quickly:
 ![1738867391045](https://github.com/user-attachments/assets/65530629-32fb-415f-9a8e-e3cadabb90e1)
 
 
-
 ## Hardware requirement
 
 GPU Memory at least 48GB would not appear OOM problem.
 ![微信图片_20250206162602](https://github.com/user-attachments/assets/e4232a2e-4e5d-4636-921e-d9e6e4855134)
 
+## Test Enviroment 
+I deploy this program under PyTorch 2.3.0 ,Python 3.12(ubuntu22.04), Cuda  12.1
  
