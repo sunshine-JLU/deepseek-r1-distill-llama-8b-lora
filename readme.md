@@ -22,6 +22,8 @@ Follow these steps to get started quickly:
 
 5. **Run the lora-model in the lora_model_inference.ipynb**  
   After you successfully run over the deepseek-r1-distill-llama-8b.ipynb, You will get a number of checkpoint files, each file is a lora weight that can be loaded independently, you can specify the lora file address in the lora_model_inference.ipynb to load and run.
+![Uploading 1738867391045.jpg…]()
+
 
 ## Hardware requirement
 
