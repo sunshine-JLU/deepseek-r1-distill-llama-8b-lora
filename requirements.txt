@@ -1,0 +1,7 @@
+torch==2.3.0+cu121
+transformers==4.46.0
+peft==0.14.0
+trl==0.14.0
+pandas==2.2.3
+datasets==3.2.0
+tokenizers==0.20.3
