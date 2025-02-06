@@ -11,9 +11,6 @@ Follow these steps to get started quickly:
 2. **Enviroment**  
    ```bash
    pip install -r requirements.txt
-   
-   ```bash
-   pip install -r requirements.txt
 
 3. **Download the Model**  
   Set the Hugging Face endpoint and download the deepseek-r1-distill-llama-8b model:
