@@ -6,6 +6,9 @@ Follow these steps to get started quickly:
    Clone the repository to your local machine:
    ```bash
    git clone https://github.com/sunshine-JLU/deepseek-r1-distill-llama-8b-lora.git
+   
+   ```bash
+   pip install -r requirements.txt
 
 2. **Download the Model**  
   Set the Hugging Face endpoint and download the deepseek-r1-distill-llama-8b model:
@@ -14,3 +17,9 @@ Follow these steps to get started quickly:
 
 3. **Run the Notebook**  
   Open and run the deepseek-r1-distill-llama-8b.ipynb notebook to start fine-tuning the model.
+
+## Hardware requirement
+
+GPU Memory at least 48GB would not appear OOM problem.
+
+ 
