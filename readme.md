@@ -7,6 +7,8 @@ Follow these steps to get started quickly:
    ```bash
    git clone https://github.com/sunshine-JLU/deepseek-r1-distill-llama-8b-lora.git
 
+   cd deepseek-r1-distill-llama-8b-lora
+
    
 2. **Enviroment**  
    ```bash
